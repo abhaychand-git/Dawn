@@ -1,3 +1,1 @@
-gcvhjkl
-fghjk
-fghjkl;
+print("hello world")
